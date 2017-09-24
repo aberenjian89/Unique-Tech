@@ -16,3 +16,7 @@ ul .nav-item a{
 ul .nav-item a:hover{
   color:#fff !important;
 }
+
+div#navbar-text{
+  float:right !important;
+}
